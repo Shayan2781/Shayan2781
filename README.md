@@ -1,7 +1,6 @@
 #### About me
 > CE student at Amirkabir University of Technology
-* Currently working as a Front-end intern in Bale Messaging app
-* My goal is to be a full-stack developer
+* Currently working as a Senior Software engineer at Tapsi
 * Open to learn other technologies
 
 
